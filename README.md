@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ZaynHamza
+- 👀 I’m interested in back-end development
+- 🌱 I’m currently learning machine learning with python
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: instagram: @_nvsd
