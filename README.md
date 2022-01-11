@@ -2,4 +2,4 @@
 - 👀 I’m interested in back-end development
 - 🌱 I’m currently learning machine learning with python
 - 📫 How to reach me: instagram: @_nvsd, 
--    linkedin: linkedin.com/in/zaynhamza99/
+-    linkedin: https://www.linkedin.com/in/zaynhamza99/
