@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZaynHamza
 - 👀 I’m interested in back-end development
 - 🌱 I’m currently learning machine learning with python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: instagram: @_nvsd
+- 📫 How to reach me: instagram: @_nvsd, 
+-    linkedin: https://www.linkedin.com/in/zayn-hamza-92910b22b/
